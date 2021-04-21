@@ -193,7 +193,7 @@ public class MapCreator {
 		
 		blockLegend.put("", new Block());
 		
-		int id = 0;
+		//int id = 0;
 		
 		/*
 		blockLegend.put("Bookshelf", (Block) new Block(id++, "bookshelf", Arrays.asList(new ResourcePath("Bookshelf.png")), "book", 0, ConvexCollider.rectFromCorners(12,0,52,26)).setTextureOffset(0, -32));

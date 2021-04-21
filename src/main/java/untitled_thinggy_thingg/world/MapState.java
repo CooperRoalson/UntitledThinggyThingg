@@ -286,7 +286,7 @@ public class MapState {
 	    		ObjectInputStream inputStream = new ObjectInputStream(path.getInputStream());
 	    		player = Optional.of((Player) inputStream.readObject());
 	    	} else {
-	    		player = Optional.of(new Player(150, 150, false));
+	    		player = Optional.of(new Player(2290, 2855, false));
 	    	}
 	    	
 	    	System.out.println("Player data deserialized from " + path);
