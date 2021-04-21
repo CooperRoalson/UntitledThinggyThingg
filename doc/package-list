@@ -1,0 +1,16 @@
+com.github.cooperroalson.untitled_thinggy_thingg
+com.github.cooperroalson.untitled_thinggy_thingg.core
+com.github.cooperroalson.untitled_thinggy_thingg.core.drawing.drawables
+com.github.cooperroalson.untitled_thinggy_thingg.core.drawing.sprites
+com.github.cooperroalson.untitled_thinggy_thingg.core.drawing.window
+com.github.cooperroalson.untitled_thinggy_thingg.core.gamestates
+com.github.cooperroalson.untitled_thinggy_thingg.dev.maps
+com.github.cooperroalson.untitled_thinggy_thingg.gameplay.client
+com.github.cooperroalson.untitled_thinggy_thingg.gameplay.client.items
+com.github.cooperroalson.untitled_thinggy_thingg.gameplay.client.ui
+com.github.cooperroalson.untitled_thinggy_thingg.gameplay.world
+com.github.cooperroalson.untitled_thinggy_thingg.gameplay.world.blocks
+com.github.cooperroalson.untitled_thinggy_thingg.gameplay.world.collision
+com.github.cooperroalson.untitled_thinggy_thingg.gameplay.world.entities
+com.github.cooperroalson.untitled_thinggy_thingg.gameplay.world.tiles
+com.github.cooperroalson.untitled_thinggy_thingg.util.files
